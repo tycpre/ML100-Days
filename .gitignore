@@ -10,3 +10,5 @@ textpattern/
 HISTORY.txt
 README.txt
 data/
+.ipynb_checkpoints/
+.DS_Store
